@@ -4,6 +4,12 @@ The purpose of this analysis is to get more information about temperature trends
 
 Results:
 
+- The mean temperature only has a 5 degrees difference between June and December 
+- The standard deviation is nearly to same suggesting that temperature are similarity disperse for the two different months. 
+- The max temperature was only 5 degrees less in December compared to June. 
+
+Summary:
+
 June
 
 ![image](resources/june.png)
@@ -11,11 +17,5 @@ June
 December
 
 ![image](resources/dec.png)
-
-- The mean temperature only has a 5 degrees difference between June and December 
-- The standard deviation is nearly to same suggesting that temperature are similarity disperse for the two different months. 
-- The max temperature was only 5 degrees less in December compared to June. 
-
-Summary:
 
 The temperature differences is not far off compared in June and Dec, therefore safe to say temperature trends will not be drastically different when the season change. Surf and ice cream is a good idea. 
