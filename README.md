@@ -6,7 +6,7 @@ Results:
 
 June
 
-![image](resources/1.png)
+![image](resources/june.png)
 
 December
 
